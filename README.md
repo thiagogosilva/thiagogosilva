@@ -30,10 +30,5 @@
 </div>
 
 <div>
-  
-
-  
- <a href="https://github.com/thiagogosilva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagogosilva&show_icons=true&include_all_commits=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Anurag's github stats" /></a>
-
-
+   <a href="https://github.com/thiagogosilva"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagogosilva&show_icons=true&include_all_commits=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Anurag's github stats" /></a>
 </div>
