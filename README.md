@@ -1,20 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Ei 👋 e ai?</h1>
 
 ###
 
-<p align="left">My name is Thiago and I'm estudante de ADS, from Belo Horizonte/MG.</p>
+<p align="left">Meu nome é Thiago e sou estudante de ADS, de Belo Horizonte/MG Uai.</p>
 
 ###
 
-<h2 align="left">About me 😉</h2>
+<h2 align="left">Sobre mim 😉</h2>
 
 ###
 
-<p align="left">✨ Aprendendo and Creating bugs since 2024<br>📚 I'm currently learning JS & Phyton<br>🎯 Goals: Ser um Desenvolvedor Full Stack<br>🤞 A procura do meu primeiro estágio<br>🎲 Fun fact: Adoro um bom desafio, e jogos online</p>
+<p align="left">✨ Aprendendo e Criando bugs desde 2024<br>📚 Atualmente estou aprendendo JS & Phyton<br>🎯 Objetivos: Ser um Desenvolvedor Full Stack<br>🤞 A procura do meu primeiro estágio<br>🎲 Curiosidade: Adoro um bom desafio, e jogos online</p>
 
 ###
 
-<h2 align="left">I code with (iniciando 😁)</h2>
+<h2 align="left">Eu codifico com (iniciando 😁)</h2>
 
 ###
 
