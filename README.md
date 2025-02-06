@@ -30,5 +30,5 @@
 </div>
 
 <div>
-   <a href="https://github.com/thiagogosilva"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagogosilva&show_icons=true&include_all_commits=true&theme=dark&rank_icon=github&hide_border=true" alt="Thiagogosilva github stats" /></a>
+   <a href="https://github.com/thiagogosilva"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagogosilva&show_icons=true&include_all_commits=true&theme=merko&rank_icon=github&hide_border=true" alt="Thiagogosilva github stats" /></a>
 </div>
