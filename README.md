@@ -50,19 +50,13 @@ Aplicação web focada no gerenciamento de aprendizado:
 
 ## 📫 Vamos nos conectar?
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/thiagogosilva" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagogosilva)
 &nbsp;&nbsp;
-<a href="mailto:thiagogosilva@icloud.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagogosilva@icloud.com)
 &nbsp;&nbsp;
-<a href="https://thiagogosilva.github.io/desafio-90dias-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+[![Portfólio](https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thiagogosilva.github.io/desafio-90dias-dev/)
 
 </p>
 
